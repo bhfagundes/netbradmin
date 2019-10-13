@@ -271,182 +271,100 @@
                     <!--Start single service style1--> 
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
+                            <span>35 Mega</span>
+                            <h3>Wi-Fi + Now</h3>
                         </div>
                         <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
+                           <!-- <li><span class="flaticon-television"></span></li>!-->
                             <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
+                           <!-- <li><span class="flaticon-call clr3"></span></li>!-->
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Download 35Mbps</li>
+                            <li>Wi-Fi dentro e Fora de Casa</li>
+                            <li>Now</li>
+                            <li>Valor individual R$ 99,99/mês por 3 meses e após  <br>R$ 119,99/mês</li>
+                            <br><br><br>
+                            <li>Valor no combo a partir de R$79,99/mês por 6 meses</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Saiba Mais</a>
                         </div>
                     </div>
+
                     <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    
-                    <!--Start single service style1--> 
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
+                            <span>120 Mega</span>
+                            <h3>Wi-Fi + Now</h3>
                         </div>
                         <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
+                           <!-- <li><span class="flaticon-television"></span></li>!-->
                             <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
+                           <!-- <li><span class="flaticon-call clr3"></span></li>!-->
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Download 120Mbps</li>
+                            <li>Wi-Fi dentro e Fora de Casa</li>
+                            <li>Wi-Fi plus</li>
+                            <li>Proteção Digital</li>
+                            <li>Now</li>
+                            <li>Valor individual R$ 119,99/mês por 3 meses e após  <br>R$ 139,99/mês</li>
+                            <br><br>
+                            <li>Valor no combo a partir de R$99,99/mês por 6 meses</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Saiba Mais</a>
                         </div>
                     </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    
-                    <!--Start single service style1--> 
+
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
+                            <span>240 Mega</span>
+                            <h3>Wi-Fi + Now</h3>
                         </div>
                         <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
+                           <!-- <li><span class="flaticon-television"></span></li>!-->
                             <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
+                           <!-- <li><span class="flaticon-call clr3"></span></li>!-->
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Download 240Mbps</li>
+                            <li>Wi-Fi dentro e Fora de Casa</li>
+                            <li>Wi-Fi plus</li>
+                            <li>Proteção Digital</li>
+                            <li>Now</li>
+                            <li>Valor individual R$ 149,99/mês por 3 meses e após  <br>R$ 169,99/mês</li>
+                            <br><br>
+                            <li>Valor no combo a partir de R$129,99/mês por 6 meses</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Saiba Mais</a>
                         </div>
                     </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
+
+                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
+                            <span>500 Mega</span>
+                            <h3>Wi-Fi + Now</h3>
                         </div>
                         <ul class="icon-holder">
+                           <!-- <li><span class="flaticon-television"></span></li>!-->
                             <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
+                           <!-- <li><span class="flaticon-call clr3"></span></li>!-->
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Download 5000Mbps</li>
+                            <li>Wi-Fi dentro e Fora de Casa</li>
+                            <li>Wi-Fi plus</li>
+                            <li>Proteção Digital</li>
+                            <li>Now</li>
+                            <li>Valor individual R$ 449,99/mês <br></li>
+                            <br><br>
+                            <li>Valor no combo a partir de R$429,99/mês </li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Saiba Mais</a>
                         </div>
                     </div>
                     <!--End single service style1-->
@@ -470,7 +388,7 @@
                     <img src="images/resources/super-sale.jpg" alt="Awesome Image">
                     <div class="round-box wow zoomIn" data-wow-delay="800ms">
                         <div class="inner">
-                            <p>Super<br> Sale</p>
+                            <p>Super<br> Oferta</p>
                         </div>
                     </div>
                 </div>   
@@ -479,20 +397,20 @@
                 <div class="super-sale-content">
                     <div class="inner">
                         <div class="sec-title">
-                            <h6>The best woteen deal</h6>
-                            <div class="title">Unlimited Broadband<br> Deals</div>
+                            <h6>Pacotes de Tv à Cabo</h6>
+                            <div class="title">Mais de 100 canais<br> sendo 10 hd</div>
                         </div>
                         <div class="inner-content">
-                            <h6>From <span>$20.00</span> Per Month</h6>
+                            <h6>à partir de  <span>R$ 69,99</span> por mês</h6>
                             <ul>
-                                <li>Line Rental Included</li>
-                                <li>12 Month Contract</li>
-                                <li>No Activation Charges</li>
-                                <li>Up to 108Mbps average download speed</li>
-                                <li>Talk with your friends and family on weekends</li>
+                                <li>Band News</li>
+                                <li>Canal Brasil</li>
+                                <li>Discovery Kids</li>
+                                <li>Multishow</li>
+                                <li>Universal</li>
                             </ul>
                             <div class="button">
-                                <a class="btn-one" href="#">View Our All Deals</a>
+                                <a class="btn-one" href="#">ver todos os planos</a>
                             </div>
                         </div>
                     </div>

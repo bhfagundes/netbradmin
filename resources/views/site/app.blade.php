@@ -122,12 +122,12 @@
             <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                 <div class="single-footer-widget marbtm50">
                     <div class="title">
-                        <h3>About Woteen</h3>
+                        <h3>Sobre Netcombobr</h3>
                     </div>
                     <div class="company-info">
                         <p>Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys.</p>
                         <div class="read-more">
-                            <a href="#">Read More</a>
+                            <a href="#">Saiba mais </a>
                         </div>
                     </div>
                 </div>
@@ -137,14 +137,12 @@
             <div class="col-xl-2 col-lg-2 col-md-3 col-sm-12">
                 <div class="single-footer-widget marbtm50">
                     <div class="title">
-                        <h3>Company</h3>
+                        <h3>NetComboBr</h3>
                     </div>
                     <ul class="page-links">
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Our Team</a></li>
-                        <li><a href="#">Missions</a></li>
-                        <li><a href="#">Our Projects</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">Index</a></li>
+                        <li><a href="#">Contato</a></li>
+                        
                     </ul>  
                 </div>
             </div>
@@ -153,13 +151,13 @@
             <div class="col-xl-2 col-lg-2 col-md-3 col-sm-12">
                 <div class="single-footer-widget marbtm50">
                     <div class="title">
-                        <h3>Services</h3>
+                        <h3>Planos</h3>
                     </div>
                     <ul class="services-links">
-                        <li><a href="#">Broadband</a></li>
+                        <li><a href="#">Combos</a></li>
+                        <li><a href="#">Internet</a></li>
                         <li><a href="#">TV</a></li>
-                        <li><a href="#">Phone</a></li>
-                        <li><a href="#">Super Fiber</a></li>
+                        <li><a href="#">Celular</a></li>
                     </ul>   
                 </div>
             </div>
@@ -171,8 +169,8 @@
                         <h3>Newsletter</h3>
                     </div>
                     <form class="newsletter-form" action="#">
-                        <input type="email" name="email" placeholder="Your Email">
-                        <button class="btn-one" type="submit">Subscribe</button>
+                        <input type="email" name="email" placeholder="Seu Email">
+                        <button class="btn-one" type="submit">Inscrever</button>
                     </form>
                 </div>
             </div>
@@ -199,7 +197,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                 <div class="inner clearfix">
                     <div class="single copyright-text">
-                        <p>© Copyright 2019 by<br> <a href="#">woteen</a></p>
+                        <p>© Copyright 2019 by<br> <a href="#">netcombobr</a></p>
                     </div>
                     <div class="single footer-bottom-contact-info">
                         <ul class="left">
