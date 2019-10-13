@@ -81,8 +81,8 @@
                 <div class="main-box">
                     <div class="inner-container clearfix">
                         <div class="logo-box">
-                            <a href="index-2.html">
-                                <img src="{{ asset('images/resources/logo.png') }}" alt="Awesome Logo">
+                            <a href="/">
+                                <img src="{{ asset('images/logo.png') }}" alt="Awesome Logo">
                             </a>
                         </div>
                         <div class="nav-outer clearfix">
@@ -99,7 +99,7 @@
                         </div>
                         <div class="header-right clearfix">
                             <div class="button">
-                                <a class="btn-one" href="#">Get Started</a>
+                                <a class="btn-one" href="/login">Login</a>
                             </div>
                         </div>  
                     </div>
