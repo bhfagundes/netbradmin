@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <!--Start Single Services style2-->
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="single-service-style2 text-center wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1200ms">
                     <div class="img-holder">
                         <img src="images/services/1.jpg" alt="Awesome Image">
@@ -17,7 +17,7 @@
             </div>
             <!--End Single Services style2-->
             <!--Start Single Services style2-->
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="single-service-style2 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                     <div class="img-holder">
                         <img src="images/services/2.jpg" alt="Awesome Image">
@@ -30,20 +30,10 @@
             </div>
             <!--End Single Services style2-->
             <!--Start Single Services style2-->
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
-                <div class="single-service-style2 text-center wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1200ms">
-                    <div class="img-holder">
-                        <img src="images/services/3.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Móvel</h3>
-                        <p>Verifique nossos planos móvel</p>
-                    </div>        
-                </div>
-            </div>
+         
             <!--End Single Services style2-->
             <!--Start Single Services style2-->
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="single-service-style2 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
                     <div class="img-holder">
                         <img src="images/services/1.jpg" alt="Awesome Image">
@@ -165,201 +155,7 @@
     </div>
 </section>
 <!--End services style1 area-->
-<section class="services-style1-area secpd1">
-    <div class="container">
-        <div class="sec-title text-center">
-            <div class="title">Móvel</div>
-        </div>
-        <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                <div class="service-carousel owl-carousel owl-theme"> 
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!--Start company Info Area-->
 <section class="services-style1-area secpd1">
     <div class="container">
@@ -447,184 +243,64 @@
                     <!--Start single service style1--> 
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                         <div class="title-holder">
-                            <span>Apenas Tv</span>
-                            <h3></h3>
+                            <span>Inicial Hd</span>
+                            <h3>Apenas Tv</h3>
                         </div>
                         <ul class="icon-holder">
                             <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Canais Abertos </li>
+                            <li>Acesso a Locador de filmes do Now</li>
+                            <li>Compra de Pacotes Avulsos de TV por 30 dias</li>
+                            <li>R$39,99/Mês</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Assine já</a>
                         </div>
                     </div>
                     <!--End single service style1-->
                     <!--Start single service style1--> 
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
+                    <div class="title-holder">
+                            <span>Fácil Hd</span>
+                            <h3>Apenas Tv</h3>
                         </div>
                         <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
+                            <li><span class="flaticon-television"></span></li>
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Grandes sucessos do cinema</li>
+                            <li>Principais séries e temporadas</li>
+                            <li>R$69,99/Mês</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Assine já</a>
                         </div>
                     </div>
                     <!--End single service style1-->
                     <!--Start single service style1--> 
                     <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
+                    <div class="title-holder">
+                            <span>Top 4k</span>
+                            <h3>Apenas Tv</h3>
                         </div>
                         <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
+                            <li><span class="flaticon-television"></span></li>
                         </ul>
                         <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
+                            <li>Programação Completa pra você </li>
+                            <li>Mais de 200 canais</li>
+                            <li>R$119,99/Mês</li>
                         </ul>
                         <div class="button">
-                            <a href="#">Learn More</a>
+                            <a href="#">Assine já</a>
                         </div>
                     </div>
                     <!--End single service style1-->
                     
                     <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
                     
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Full package</span>
-                            <h3>TV, Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-television"></span></li>
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>half package</span>
-                            <h3>Broadband & Phone</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                            <li><span class="flaticon-call clr3"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
-                    <!--End single service style1-->
-                    <!--Start single service style1--> 
-                    <div class="single-service-style1 text-center wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1200ms">
-                        <div class="title-holder">
-                            <span>Single deal</span>
-                            <h3>Broadband Only</h3>
-                        </div>
-                        <ul class="icon-holder">
-                            <li><span class="flaticon-computer clr2"></span></li>
-                        </ul>
-                        <ul class="text">
-                            <li>Tinc dunt is elit magnis nula </li>
-                            <li>facily sis sagittis maec</li>
-                            <li>nwp enas.</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#">Learn More</a>
-                        </div>
-                    </div>
                     <!--End single service style1-->
                 </div>
             </div>
