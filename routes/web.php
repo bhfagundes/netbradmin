@@ -20,6 +20,8 @@ Route::get('/contato', function () {
     return view('site/contato');
 });
 
+Route::get('/planos', 'SiteController@planos');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
