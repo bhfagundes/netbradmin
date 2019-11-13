@@ -1,6 +1,6 @@
 @extends('site.app')
 @section('content')
-<section class="services-style2-area">
+<section  class="services-style2-area">
     <div class="container">
         <div class="row">
             <!--Start Single Services style2-->
@@ -11,7 +11,7 @@
                     </div>
                     <div class="text-holder">
                         <h3>TV</h3>
-                        <p>Veja os planos de Tv</p>
+                        <p><a href="#tv">Veja os planos de Tv </a></p>
                     </div>        
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     </div>
                     <div class="text-holder">
                         <h3>Combos</h3>
-                        <p>Verifique nossos combos</p>
+                        <p><a href="#combo">Verifique nossos combos</a></p>
                     </div>        
                 </div>
             </div>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="text-holder">
                         <h3>Internet</h3>
-                        <p>Verifique nossos planos de internet</p>
+                        <p><a href="#internet">Verifique nossos planos de internet </a></p>
                     </div>        
                 </div>
             </div>
@@ -51,7 +51,7 @@
 <!--End services style2 area-->  
 
 <!--Start services style1 area-->
-<section class="services-style1-area secpd1">
+<section  id= "combo" class="services-style1-area secpd1">
     <div class="container">
         <div class="sec-title text-center">
             <div class="title">Combos</div>
@@ -157,7 +157,7 @@
 <!--End services style1 area-->
 
 <!--Start company Info Area-->
-<section class="services-style1-area secpd1">
+<section id="internet" class="services-style1-area secpd1">
     <div class="container">
         <div class="sec-title text-center">
             <div class="title">Internet</div>
@@ -232,7 +232,7 @@
     </div>
 </section>
 <!--End company Info Area-->
-<section class="services-style1-area secpd1">
+<section id="tv" class="services-style1-area secpd1">
     <div class="container">
         <div class="sec-title text-center">
             <div class="title">TV</div>
