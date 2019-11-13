@@ -11,15 +11,15 @@
             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 <div class="single-info-box text-center wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                     <div class="title-holder">
-                        <span>get to know</span>
-                        <h3>About Woteen</h3>
+                        <span>Solicite ajuda</span>
+                        <h3>Um de nossos consultores entrará em contato</h3>
                     </div>
                     <ul class="icon-holder">
                         <li><span class="flaticon-doctor"></span></li>
                     </ul>
                     <ul class="text">
-                        <li>Tinc dunt is elit magnis nula</li>
-                        <li>facily sis sagittis maec</li>
+                        <li>Envie-nos uma mensagem</li>
+                        
                     </ul>
                 </div>
             </div>
@@ -35,8 +35,8 @@
                         <li><span class="flaticon-fast clr2"></span></li>
                     </ul>
                     <ul class="text">
-                        <li>855 Road Broklyn Street, 600</li>
-                        <li>New York, USA</li>
+                        <li>Agende sua visita!</li>
+                        <li>Vespasiano, MG</li>
                     </ul>
                 </div>
             </div>
@@ -53,8 +53,8 @@
                         <li><span class="flaticon-message"></span></li>
                     </ul>
                     <ul class="text">
-                        <li>666 888 000</li>
-                        <li>needhelp@woteen.com</li>
+                        <li>31 99658-3176</li>
+                        <li>comercialnetcombo.br@gmail.com</li>
                     </ul>
                 </div>
             </div>
