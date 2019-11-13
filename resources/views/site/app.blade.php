@@ -55,7 +55,7 @@
                     <div class="top-left-style1 float-left clearfix">
                         <ul class="top-contact-info fix">
                             <li><span class="flaticon-user"></span>Customer Sign In</li>
-                            <li><span class="flaticon-auricular-phone-symbol-in-a-circle"></span>Call Now 666 888 000</li>
+                            <li><span class="flaticon-auricular-phone-symbol-in-a-circle"></span>Ligue agora 31 996583176</li>
                         </ul>
                     </div>
                     <div class="top-right-style1 float-right">

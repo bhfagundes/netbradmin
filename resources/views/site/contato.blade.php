@@ -147,15 +147,13 @@
                     <div 
                         class="google-map" 
                         id="contact-google-map" 
-                        data-map-lat="40.584160" 
-                        data-map-lng="-74.415543" 
+                        data-map-lat="-19.7305982" 
+                        data-map-lng="-44.0179492" 
                         data-icon-path="images/resources/map-marker.png" 
-                        data-map-title="Brooklyn, New York, United Kingdom" 
+                        data-map-title="Vespasiano, Minas Gerais" 
                         data-map-zoom="12" 
                         data-markers='{
-                            "marker-1": [40.584160, -74.415543, "<h4>Head Office</h4><p>44/108 Brooklyn, UK</p>"],
-                            "marker-3": [35.616959, -87.838852, "<h4>Head Office</h4><p>44/108 Brooklyn, UK</p>"]
-
+                            "marker-1": [-19.7305982, -44.0179492, "<h4>Vespasino</h4><p>Minas Gerais, Brasil</p>"]
                         }'>
                     </div>   
                 </div> 
