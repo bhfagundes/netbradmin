@@ -201,14 +201,14 @@
                     </div>
                     <div class="single footer-bottom-contact-info">
                         <ul class="left">
-                            <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:needhelp@woteen.com">needhelp@woteen.com</a></li>
-                            <li><i class="fa fa-phone-square" aria-hidden="true"></i><a href="tel:666888000">666 888 000</a></li>
+                            <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:comercialnetcombo.br@gmail.com">comercialnetcombo.br@gmail.com</a></li>
+                            <li><i class="fa fa-phone-square" aria-hidden="true"></i><a href="tel:31996583176">31 996583176</a></li>
                         </ul>
                     </div>
                     <div class="single footer-bottom-contact-info">
                         <ul class="right">
-                            <li>855 Road Broklyn Street, 600</li>
-                            <li>New York, USA</li>
+        
+                            <li>Vespasino, Mg, Brasil</li>
                         </ul>
                     </div>
                     <div class="single footer-social-links">
